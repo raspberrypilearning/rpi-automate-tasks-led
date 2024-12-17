@@ -1,0 +1,21 @@
+title: Automate tasks on your Raspberry Pi- LED
+hero_image: images/banner.png
+description: Automate tasks on your Raspberry Pi
+version: 1
+listed: false
+copyedit: false
+last_tested: "2025-01-01"
+steps:
+  - title: What you will make
+  - title: Find your Activity LED
+    completion:
+    - engaged
+  - title: Run on boot
+    completion:
+    - internal
+  - title: Run on a schedule
+    completion:
+    - external
+  - title: Challenge
+    challenge: true
+  - title: What can you do now?
